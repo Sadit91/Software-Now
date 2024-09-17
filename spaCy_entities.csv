@@ -1,0 +1,31 @@
+ENTITY,LABEL
+asthma,DISEASE
+blood,DISEASE
+tablet,DRUG
+Colace,DRUG
+Ativan,DRUG
+mg,DRUG
+patient,PERSON
+doctor,PERSON
+Allergies,ALLERGY
+he,PERSON
+Anxiety,SYMPTOM
+dizziness,SYMPTOM
+syncope,SYMPTOM
+falls,SYMPTOM
+vomiting,SYMPTOM
+biopsy,PROCEDURE
+surgery,PROCEDURE
+waxing,PROCEDURE
+pain,FINDING
+calcium,FINDING
+systolic,FINDING
+blood pressure,FINDING
+nitroglycerin,FINDING
+AM,TIME
+previous studies,HISTORY
+history,HISTORY
+CBC,LAB_TEST
+MRI,LAB_TEST
+Medication,TREATMENT
+Therapy,TREATMENT

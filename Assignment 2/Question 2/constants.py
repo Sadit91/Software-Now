@@ -1,0 +1,5 @@
+# constants.py
+BLACK = (0, 0, 0)
+BULLET_COLOR = (40, 0, 0)
+SCREEN_WIDTH = 852
+SCREEN_HEIGHT = 480
